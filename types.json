@@ -1,0 +1,9 @@
+{
+  "string":"Kate",
+  "number":20,
+  "boolean":true,
+  "null":null,
+  "object":{
+    "color":"red"
+  }
+}
